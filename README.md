@@ -1,7 +1,5 @@
 # Flowchart Simulator - C++
 
-**Project Duration:** March 2022 - June 2023
-
 ## Overview
 
 Developed a sophisticated flowchart simulator as part of an Object-Oriented Programming course project. This tool empowers users to visually construct intricate logical sequences by intuitively dragging and dropping elements and connecting them. The project involved collaborative efforts in designing and implementing a robust graphical user interface (GUI) using advanced Object-Oriented Programming (OOP) principles. Contributions included refining algorithms for flowchart validation and generating equivalent C++ code, ensuring the simulator's functionality and accuracy.
