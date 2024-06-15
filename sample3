@@ -1,0 +1,12 @@
+5
+STRT	1	306	94
+COND	2	295	207 salary>10000
+WRITE	3	439	299 Output(Nice salary)
+WRITE	4	106	315 Output(Low salary)
+END	5	269	419
+5
+1	2	0
+2	3	1
+2	4	2
+3	5	0
+4	5	0

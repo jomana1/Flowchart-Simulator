@@ -1,0 +1,16 @@
+7
+STRT	1	336	69
+READ	2	330	193 Input(Price)
+COND	3	309	247 Price>10000
+SNGLOP4	74	323 discount=Price*0.02
+SNGLOP5	460	337 discount=Price*0.01
+WRITE	6	254	475 Output(discount)
+END	7	229	540
+7
+1	2	0
+2	3	0
+3	5	2
+3	4	1
+4	6	0
+5	6	0
+6	7	0

@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{	double Price;
+	double discount;
+	cin >>Price;
+	if(Price>10000)
+	{
+	discount=Price*0.02;
+	cout <<discount;
+
+	}
+	else
+{
+	discount=Price*0.01;
+	cout <<discount;
+
+	}
+	return 0;
+}

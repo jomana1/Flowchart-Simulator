@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{	if(salary>10000)
+	{
+	cout <<Nice salary;
+
+	}
+	else
+{
+	cout <<Low salary;
+
+	}
+	return 0;
+}
